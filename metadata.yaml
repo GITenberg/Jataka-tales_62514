@@ -1,0 +1,42 @@
+_repo: Jataka-tales_62514
+_version: 0.0.1
+alternative_title: 'The Jatakas: Tales of India'
+contributor:
+  illustrator:
+    agent_name: Young, Ellsworth
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '40121'
+    url: http://www.gutenberg.org/2009/agents/40121
+creator:
+  author:
+    agent_name: Babbitt, Ellen C.
+    alias: Babbitt, E. C.
+    gutenberg_agent_id: '2498'
+    url: http://www.gutenberg.org/2009/agents/2498
+description: ''
+gutenberg_issued: '2020-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62514'
+  lccn: '12040653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- India'
+- !lcsh 'Animals -- Folklore'
+- !lcsh 'Jataka stories, English'
+- !lcsh 'Jataka stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The monkey and the crocodile -- How the turtle saved his own life
+  -- The merchant of Seri -- The turtle who couldn't stop talking -- The ox who won
+  the forfeit -- The sandy road -- The quarrel of the quails -- The measure of rice
+  -- The foolish, timid rabbit -- The wise and the foolish merchant -- The elephant
+  Girly-Face -- The Banyan deer -- The princes and the water-sprite -- The king's
+  white elephant -- The ox who envied the pig -- Grannie's blackie -- The crab and
+  the crane -- Why the owl is not king of the birds.
+title: Jataka tales
+url: http://www.gutenberg.org/ebooks/62514

@@ -1,5 +1,5 @@
 _repo: Jataka-tales_62514
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'The Jatakas: Tales of India'
 contributor:
   illustrator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '40121'
     url: http://www.gutenberg.org/2009/agents/40121
+covers:
+- cover_type: archival
+  image_path: 62514-h/images/cover.jpg
 creator:
   author:
     agent_name: Babbitt, Ellen C.
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '2498'
     url: http://www.gutenberg.org/2009/agents/2498
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62514#Jataka-tales
 gutenberg_issued: '2020-06-28'
 gutenberg_type: Text
 identifiers:
